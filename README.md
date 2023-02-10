@@ -1,6 +1,6 @@
 # Reverse_challenge_game
 
-ENGLISH
+<h3>ENGLISH</h3>
 
 A mid-level reverse engineering challenge!
 
@@ -10,7 +10,10 @@ Follow me here on github too, it motivates me to do more huehue challenges.
 
 <h3>Good studies!</h3>
 
-PORTUGUES
+<hr>
+
+
+<h3>PORTUGUES</h3>
 
 Um desafio de engenharia reversa de nível médio!
 
